@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<!-- Import tModLoader mod properties -->
+	<Import Project="..\tModLoader.targets" />
+
+	<!-- General -->
+	<PropertyGroup>
+		
+	</PropertyGroup>
+
+	<!-- References -->
+	<ItemGroup>
+	  <None Remove="Content\Items\Misc\Harpoon.png" />
+	  <None Remove="Content\Items\Tools\HarpoonLauncher.png" />
+	  <None Remove="Content\Projectiles\HarpoonProjectile.png" />
+	</ItemGroup>
+
+</Project>

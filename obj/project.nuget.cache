@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VDgZ3w8GWkU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Notho\\OneDrive\\Documentos\\My Games\\Terraria\\tModLoader\\ModSources\\TheDeep\\TheDeep.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Notho\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

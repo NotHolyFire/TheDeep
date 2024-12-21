@@ -1,0 +1,485 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	Applefin: {
+		DisplayName: Applefin
+		Tooltip:
+			'''
+			Minor improvements to all stats
+			'Applefin are freshwater fish that live in forest rivers or lakes, and eat algae or other plant matter.
+			Their form resembles a red apple, which unfortunately for them, doesn't help with survival.'
+			'''
+	}
+
+	GoldenApplefin: {
+		DisplayName: Golden Applefin
+		Tooltip:
+			'''
+			Medium improvements to all stats
+			'Really original huh? What next, are you going to enchant it?'
+			'''
+	}
+
+	NavalSteelBar: {
+		DisplayName: Naval Steel Bar
+		Tooltip: Water-resistant steel used for cheap diving suits, fishing gear or weapons
+	}
+
+	SalvageableScrap: {
+		DisplayName: Salvageable Scrap
+		Tooltip: Can be melted in a furnace
+	}
+
+	IndustrialFishingRod: {
+		DisplayName: Industrial Fishing Rod
+		Tooltip: The fishing line never snaps
+	}
+
+	MagnetBait: {
+		DisplayName: Magnet Bait
+		Tooltip: Fishes up more of Salvageable Items at once
+	}
+
+	SalvageablePlate: {
+		DisplayName: Salvageable Plate
+		Tooltip: Can be melted in a furnace
+	}
+
+	NavalSteelFishingSpear: {
+		DisplayName: Naval Steel Fishing Spear
+		Tooltip: ""
+	}
+
+	Torpedo: {
+		DisplayName: Torpedo
+		Tooltip: Used as ammunition with the Torpedo Launcher
+	}
+
+	TorpedoLauncher: {
+		DisplayName: Torpedo Launcher
+		Tooltip: Launches homing Torpedos that travel in water
+	}
+
+	Minnow: {
+		DisplayName: Minnow
+		Tooltip: "'Minnow are common and small freshwater fish that are often called trash fish.'"
+	}
+
+	Carp: {
+		DisplayName: Carp
+		Tooltip: ""
+	}
+
+	AFishingRodMostIdeal: {
+		DisplayName: A Fishing Pole Most Ideal
+		Tooltip:
+			'''
+			Fly, broken wings
+			I know you are still with me
+			All I need is a nudge to get me started
+			Fly, broken wings
+			To somewhere we can be free
+			Closer to our ideal
+			[...]
+			Please die, little dreams
+			Kill the camellias in me
+			Wouldn't it be easier to give in?
+			Why are these hands chasing dreams out of my reach?
+			Is my thirst for normalcy odd?
+			Fly, perfect wings (goodbye, goodbye, goodbye)
+			Where have you been hiding? (Goodbye, goodbye, goodbye)
+			Bring me to the mind that got us started
+			Fly, perfect wings (goodbye, goodbye, goodbye)
+			Show them who I can be (goodbye, goodbye, goodbye)
+			For the one last time, if you will
+			That's all
+			'''
+	}
+
+	Gunpowderfish: {
+		DisplayName: Gunpowderfish
+		Tooltip: ""
+	}
+
+	OilFish: {
+		DisplayName: Oil Fish
+		Tooltip: ""
+	}
+
+	Shrooma: {
+		DisplayName: Shrooma
+		Tooltip: ""
+	}
+
+	Woodskip: {
+		DisplayName: Woodskip
+		Tooltip: ""
+	}
+
+	DynamiteBass: {
+		DisplayName: Dynamite Bass
+		Tooltip: Boing!! Boing!!! Boing!!! Bo- *Boom*
+	}
+
+	Canister: {
+		DisplayName: Canister
+		Tooltip: guh
+	}
+
+	SeaShadeChestplate: {
+		DisplayName: Seashade Breastplate
+		Tooltip:
+			'''
+			8% increased damage
+			5% increased critical strike chance
+			'''
+	}
+
+	SeaShadeDivingMask: {
+		DisplayName: Seashade Diving Mask
+		Tooltip: +8% damage reduction
+		SetBonus:
+			'''
+			Reduces movement speed
+			+200 aggro
+			Makes you sink in liquids
+			'''
+	}
+
+	SeaShadeHeadgear: {
+		DisplayName: Seashade Headgear
+		Tooltip: +8% movement speed
+		SetBonus:
+			'''
+			+10% movement speed
+			+7% increased damage
+			Grants the ability to swim in liquids
+			'''
+	}
+
+	SeaShadeLeggings: {
+		DisplayName: Seashade Leggings
+		Tooltip:
+			'''
+			+5% increased critical strike chance
+			+6% movement speed
+			'''
+	}
+
+	Whetfish: {
+		DisplayName: Whetfish
+		Tooltip:
+			'''
+			Increases damage by 10%
+			'Whet this, whet that, how about you whet some-'
+			'''
+	}
+
+	Dinofin: {
+		DisplayName: Dinofin
+		Tooltip: ""
+	}
+
+	Piercer: {
+		DisplayName: The Piercer
+		Tooltip:
+			'''
+			Turns bullets into High Velocity Rounds
+			Right Clicking shoots a Charged Shot that hits enemies several times
+			'''
+	}
+
+	Harpoon: {
+		DisplayName: Harpoon
+		Tooltip: ""
+	}
+
+	HarpoonLauncher: {
+		DisplayName: Harpoon Launcher
+		Tooltip: ""
+	}
+
+	Sharpshooter: {
+		DisplayName: The Sharpshooter
+		Tooltip:
+			'''
+			Turns bullets into High Velocity Rounds
+			Right Clicking shoots a Bouncing Bullet that ricochets off walls and can hit enemies several times
+			'''
+	}
+
+	SunkenCrown: {
+		DisplayName: Sunken Crown
+		Tooltip:
+			'''
+			Summons the Coastal King
+			Enrages outside of the beach
+			'''
+	}
+
+	krabby_patty: {
+		DisplayName: Krabby Patty
+		Tooltip:
+			'''
+			Melee-like attacks makes enemies drop more money
+			'Spongejohn me boy time to make some MONEY!'
+			'''
+	}
+
+	AzureHelmet: {
+		DisplayName: Azure's Battlehelm
+		Tooltip:
+			'''
+			'Great for impersonating artists!'
+			Despite not providing defense, it is meant for battling.. Somehow
+			'''
+	}
+
+	AzureBreastplate: {
+		DisplayName: Azure's Breastplate
+		Tooltip:
+			'''
+			'Great for impersonating artists!'
+			Seems enchanted.. Only with artistic skills, though
+			'''
+	}
+
+	AzureLeggings: {
+		DisplayName: Azure's Leggings
+		Tooltip:
+			'''
+			'Great for impersonating artists!'
+			REALLY stylish!
+			'''
+	}
+
+	BambooHattedFish: {
+		DisplayName: Bamboo Hatted Fish
+		Tooltip: ""
+	}
+
+	Kelptopus: {
+		DisplayName: Kelptopus
+		Tooltip: ""
+	}
+
+	CrabBossBag: {
+		DisplayName: Treasure Bag (Coastal King)
+		Tooltip: ""
+	}
+
+	ZincOre: {
+		DisplayName: Zinc Ore
+		Tooltip: ""
+	}
+
+	CrabCrown: {
+		Tooltip: ""
+		DisplayName: Crab Crown
+	}
+
+	ZincBar: {
+		DisplayName: Zinc Bar
+		Tooltip: ""
+	}
+
+	IndustrialForge: {
+		DisplayName: Industrial Forge
+		Tooltip: ""
+	}
+
+	Blackfish: {
+		DisplayName: Blackfish
+		Tooltip: ""
+	}
+
+	Cactifin: {
+		DisplayName: Cactifin
+		Tooltip: ""
+	}
+
+	Eel: {
+		DisplayName: Eel
+		Tooltip: ""
+	}
+
+	Fisharaoh: {
+		DisplayName: Fisharaoh
+		Tooltip: ""
+	}
+
+	BrassBar: {
+		DisplayName: Brass Bar
+		Tooltip: ""
+	}
+
+	BrassTorpedoLauncher: {
+		DisplayName: Brass Torpedo Launcher
+		Tooltip: ""
+	}
+
+	idusforge: {
+		DisplayName: Industrial Forge
+		Tooltip: Can melt some ingots and materials together to make alloys
+	}
+
+	BrassFishingRod: {
+		DisplayName: Brass Fishing Rod
+		Tooltip:
+			'''
+			The fishing line never snaps
+			Shoots 2 bobbers
+			'''
+	}
+
+	CrabBossRelic: {
+		DisplayName: Coastal King Relic
+		Tooltip: ""
+	}
+
+	CrabBossMask: {
+		DisplayName: Coastal King Mask
+		Tooltip: ""
+	}
+
+	Riptide: {
+		DisplayName: Riptide
+		Tooltip:
+			'''
+			Becomes [c/74BEFC:amplified] when submerged in water
+			Right click in water to [c/74BEFC:dash] towards the cursor
+			Increases mobility in water when held
+			'The power of the sea, now yours'
+			'''
+	}
+
+	Bladefish: {
+		DisplayName: Slapfish
+		Tooltip: Slap 'em!
+	}
+
+	BrassHelmet: {
+		SetBonus:
+			'''
+			Increases even more mining speed
+			Enables depth meter functionalities
+			Allows auto-jump
+			'''
+		DisplayName: Brass Helmet
+		Tooltip: Increases fishing power by 8
+	}
+
+	BrassChestplate: {
+		DisplayName: Brass Chestplate
+		Tooltip:
+			'''
+			Increased mining speed
+			Increased life regeneration
+			'''
+	}
+
+	BrassLeggings: {
+		DisplayName: Brass Leggings
+		Tooltip: Increased movement speed and acceleration
+	}
+
+	BrassDrill: {
+		DisplayName: Brass Drill
+		Tooltip: ""
+	}
+
+	TidalWave: {
+		DisplayName: Tidal Wave
+		Tooltip: Shoots bursts of coral balls and a concentrated tide in a ball that hit enemies multiple times
+	}
+
+	Shellshock: {
+		DisplayName: Shellshocker
+		Tooltip:
+			'''
+			Shoots different types of corals, each color having different effects.
+			'It is actually very clamplicated.'
+			'''
+	}
+
+	CursedCrown: {
+		DisplayName: Cursed Crown
+		Tooltip: ""
+	}
+}
+
+Projectiles: {
+	IndustrialBobber.DisplayName: Industrial Bobber
+	NavalSteelFishingSpearProjectile.DisplayName: Naval Steel Fishing Spear
+	TorpedoProjectile.DisplayName: Torpedo
+	DynamiteBassBoing.DisplayName: Dynamite Bass Boing
+	ChargeShot.DisplayName: Charged Shot
+	HarpoonProjectile.DisplayName: Harpoon Projectile
+	BounceShot.DisplayName: Bouncing Shot
+	Shockwave.DisplayName: Sandwave that is coming from the right.. Probably
+	RoyalTridentProjectile.DisplayName: Royal Trident Projectile
+	TridentShotFriendly.DisplayName: Riptide Magic Missile
+	ShockwaveL.DisplayName: A sandwave coming from the left, probably
+	TridentShotHostile.DisplayName: Possessed Trident Afterimage
+	BrassBobber.DisplayName: Brass Bobber
+	RedCoralShot.DisplayName: Red Coral
+	BlueCoralShot.DisplayName: Blue Coral
+	OrangeCoralShot.DisplayName: Orange Coral
+	BrassDrillProjectile.DisplayName: Brass Drill
+	TideInABall.DisplayName: Concentrated Tide
+	TidalWaveHoldout.DisplayName: Tidal Wave (the book)
+	TidesCoral.DisplayName: Tide's Coral
+	PinkCoralShot.DisplayName: Pink Coral
+	GreenCoralShot.DisplayName: Green Coral
+	GreenCoralShard.DisplayName: Green Coral Shard
+	ABobberMostIdeal.DisplayName: A Bobber Most Ideal
+}
+
+Buffs: {
+	Sharpened: {
+		DisplayName: Sharpened
+		Description: 10% increased damage
+	}
+
+	LowBattery: {
+		DisplayName: Low Battery
+		Description: The Piercer and The Sharpshooter are on cooldown!
+	}
+
+	HarpoonStuck: {
+		DisplayName: Harpoon Stuck
+		Description: DOORS STUCK
+	}
+
+	BlueCoralShotDebuff: {
+		DisplayName: Blue Coral Shot Debuff
+		Description: Mods.TheDeep.Buffs.BlueCoralShotDebuff.Description
+	}
+
+	Stunned: {
+		DisplayName: Tremored
+		Description: Defense reduced in 10%
+	}
+
+	Resting: {
+		DisplayName: Resting
+		Description: You cannot riptide right now!
+	}
+}
+
+NPCs: {
+	TestZombie.DisplayName: Test Zombie
+	CrabBoss.DisplayName: Coastal King
+	Caranguinho.DisplayName: Coastal Servant
+	RoyalTridentNPC.DisplayName: Possessed Trident
+}
+
+Tiles: {
+	ZincOreTile.MapEntry: Zinc
+	Industrial_forge.MapEntry: Industrial Forge
+}
+
+WorldGen: {
+	BlessedWithZincMessage: The Underground shines with Zinc
+	ZincOrePassMessage: Mods.TheDeep.WorldGen.ZincOrePassMessage
+}
