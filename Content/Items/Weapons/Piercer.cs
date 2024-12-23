@@ -26,13 +26,13 @@ namespace TheDeep.Content.Items.Weapons
 
             Item.autoReuse = true;  // Whether or not you can hold click to automatically use it again.
             Item.damage = 45; // Sets the item's damage. Note that projectiles shot by this weapon will use its and the used ammunition's damage added together.
-            Item.ArmorPenetration = 10;
+            Item.ArmorPenetration = 15;
             Item.DamageType = DamageClass.Ranged; // What type of damage does this item affect?
             Item.knockBack = 4f; // Sets the item's knockback. Note that projectiles shot by this weapon will use its and the used ammunition's knockback added together.
             Item.noMelee = true; // So the item's animation doesn't do damage.
             Item.rare = ItemRarityID.Orange; // The color that the item's name will be in-game
-            Item.useAnimation = 40; // The length of the item's use animation in ticks (60 ticks == 1 second.)
-            Item.useTime = 40; // The item's use time in ticks (60 ticks == 1 second.)
+            Item.useAnimation = 50; // The length of the item's use animation in ticks (60 ticks == 1 second.)
+            Item.useTime = 50; // The item's use time in ticks (60 ticks == 1 second.)
 
             Item.UseSound = new SoundStyle($"{nameof(TheDeep)}/Content/Assets/Sounds/slab")
             {
@@ -78,7 +78,7 @@ namespace TheDeep.Content.Items.Weapons
 
             if (player.altFunctionUse == 2 && !player.HasBuff(ModContent.BuffType<LowBattery>()))
             {
-                player.AddBuff(ModContent.BuffType<LowBattery>(), 200);
+                player.AddBuff(ModContent.BuffType<LowBattery>(), 360);
                 type = ModContent.ProjectileType<ChargeShot>();
             }
 
