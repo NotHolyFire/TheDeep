@@ -421,10 +421,10 @@ Projectiles: {
 	ChargeShot.DisplayName: Charged Shot
 	HarpoonProjectile.DisplayName: Harpoon Projectile
 	BounceShot.DisplayName: Bouncing Shot
-	Shockwave.DisplayName: Sandwave that is coming from the right.. Probably
+	Shockwave.DisplayName: Sandwave
 	RoyalTridentProjectile.DisplayName: Royal Trident Projectile
 	TridentShotFriendly.DisplayName: Riptide Magic Missile
-	ShockwaveL.DisplayName: A sandwave coming from the left, probably
+	ShockwaveL.DisplayName: Sandwave
 	TridentShotHostile.DisplayName: Possessed Trident Afterimage
 	BrassBobber.DisplayName: Brass Bobber
 	RedCoralShot.DisplayName: Red Coral
