@@ -22,7 +22,7 @@ Items: {
 
 	NavalSteelBar: {
 		DisplayName: Naval Steel Bar
-		Tooltip: Water-resistant steel used for cheap diving suits, fishing gear or weapons
+		Tooltip: Water-resistant steel used for fishing gear
 	}
 
 	SalvageableScrap: {
@@ -103,27 +103,22 @@ Items: {
 
 	OilFish: {
 		DisplayName: Oil Fish
-		Tooltip: ""
+		Tooltip: "'Weirdly enough, these fish are sentients pools of oil found underground. They are very flammable, so they are often used as fuel for machinery'"
 	}
 
 	Shrooma: {
 		DisplayName: Shrooma
-		Tooltip: ""
+		Tooltip: "'A species of fish that disguise as mushrooms to not get eaten by their original predators, only to get caught by mushroom-eating animals.'"
 	}
 
 	Woodskip: {
 		DisplayName: Woodskip
-		Tooltip: ""
+		Tooltip: "'Pieces of wood that have suddenly been turned to wood..? '"
 	}
 
 	DynamiteBass: {
 		DisplayName: Dynamite Bass
 		Tooltip: Boing!! Boing!!! Boing!!! Bo- *Boom*
-	}
-
-	Canister: {
-		DisplayName: Canister
-		Tooltip: guh
 	}
 
 	SeaShadeChestplate: {
@@ -177,7 +172,7 @@ Items: {
 
 	Dinofin: {
 		DisplayName: Dinofin
-		Tooltip: ""
+		Tooltip: "'Prehistorical fish living underground that have not died yet. They seem to be related to the oilfish somehow?'"
 	}
 
 	Piercer: {
@@ -187,11 +182,6 @@ Items: {
 			Turns bullets into High Velocity Rounds
 			Right Clicking shoots a Charged Shot that hits enemies several times
 			'''
-	}
-
-	Harpoon: {
-		DisplayName: Harpoon
-		Tooltip: ""
 	}
 
 	HarpoonLauncher: {
@@ -205,15 +195,6 @@ Items: {
 			'''
 			Turns bullets into High Velocity Rounds
 			Right Clicking shoots a Bouncing Bullet that ricochets off walls and can hit enemies several times
-			'''
-	}
-
-	SunkenCrown: {
-		DisplayName: Sunken Crown
-		Tooltip:
-			'''
-			Summons the Coastal King
-			Enrages outside of the beach
 			'''
 	}
 
@@ -255,7 +236,7 @@ Items: {
 
 	BambooHattedFish: {
 		DisplayName: Bamboo Hatted Fish
-		Tooltip: ""
+		Tooltip: "'A fish that was the pet of the master of a long lost clan of warriors. The fish '"
 	}
 
 	Kelptopus: {
@@ -290,22 +271,22 @@ Items: {
 
 	Blackfish: {
 		DisplayName: Blackfish
-		Tooltip: ""
+		Tooltip: "'A small fish living in the tundra, it doesn't really have anything new going on.'"
 	}
 
 	Cactifin: {
 		DisplayName: Cactifin
-		Tooltip: ""
+		Tooltip: "'A cactus? With fins? That's where it's name came from. It's a cactus fish!'"
 	}
 
 	Eel: {
 		DisplayName: Eel
-		Tooltip: ""
+		Tooltip: "'Eels are only found surfacing the beach at night, but at day they stay low, hunting down smaller fish.'"
 	}
 
 	Fisharaoh: {
 		DisplayName: Fisharaoh
-		Tooltip: ""
+		Tooltip: "'Some very rich fish that lived in an old empire, and wear fancy desert clothes'"
 	}
 
 	BrassBar: {
@@ -421,10 +402,10 @@ Projectiles: {
 	ChargeShot.DisplayName: Charged Shot
 	HarpoonProjectile.DisplayName: Harpoon Projectile
 	BounceShot.DisplayName: Bouncing Shot
-	Shockwave.DisplayName: Sandwave
+	Shockwave.DisplayName: Sandwave that is coming from the right.. Probably
 	RoyalTridentProjectile.DisplayName: Royal Trident Projectile
 	TridentShotFriendly.DisplayName: Riptide Magic Missile
-	ShockwaveL.DisplayName: Sandwave
+	ShockwaveL.DisplayName: A sandwave coming from the left, probably
 	TridentShotHostile.DisplayName: Possessed Trident Afterimage
 	BrassBobber.DisplayName: Brass Bobber
 	RedCoralShot.DisplayName: Red Coral
