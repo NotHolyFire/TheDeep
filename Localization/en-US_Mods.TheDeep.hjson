@@ -404,7 +404,12 @@ Items: {
 
 	CursedCrown: {
 		DisplayName: Cursed Crown
-		Tooltip: ""
+		Tooltip: Summons the Coastal King when on the beach
+	}
+
+	AcornButterBall: {
+		Tooltip: Little fishies like it!
+		DisplayName: Acorn Butter Ball
 	}
 }
 
