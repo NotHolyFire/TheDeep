@@ -1,6 +1,7 @@
 using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
+using TheDeep.Content.Projectiles.player.Weapons.Default;
 
 namespace TheDeep.Content.Items.Fish
 {
@@ -20,7 +21,7 @@ namespace TheDeep.Content.Items.Fish
         {
             Item.useStyle = ItemUseStyleID.Swing;
             Item.shootSpeed = 12f;
-            Item.shoot = ModContent.ProjectileType<Content.Projectiles.DynamiteBassBoing>();
+            Item.shoot = ModContent.ProjectileType<DynamiteBassBoing>();
             Item.width = 8;
             Item.height = 28;
             Item.maxStack = Item.CommonMaxStack;

@@ -12,17 +12,26 @@ namespace TheDeep.Content.Items.Fish
 
         public override void SetStaticDefaults()
         {
+            Item.ResearchUnlockCount = 2;
             ItemID.Sets.CanBePlacedOnWeaponRacks[Type] = true; // All vanilla fish can be placed in a weapon rack.
-            Item.ResearchUnlockCount = 30;
         }
 
         public override void SetDefaults()
         {
-            Item.width = 20;
-            Item.height = 26;
-            Item.maxStack = Item.CommonMaxStack;
-            Item.rare = ItemRarityID.Blue;
-            Item.value = Item.buyPrice(silver: 15);
+            // DefaultToQuestFish sets quest fish properties.
+            // Of note, it sets rare to ItemRarityID.Quest, which is the special rarity for quest items.
+            // It also sets uniqueStack to true, which prevents players from picking up a 2nd copy of the item into their inventory.
+            Item.DefaultToQuestFish();
+        }
+
+        public override bool IsQuestFish() => true; // Makes the item a quest fish
+
+        public override void AnglerQuestChat(ref string description, ref string catchLocation)
+        {
+            // How the angler describes the fish to the player.
+            description = "Once upon a time, there was a fish as old as Terraria itself.. No, I won't waste my time describing it, go get it for my aquarium!";
+            // What it says on the bottom of the angler's text box of how to catch the fish.
+            catchLocation = "Caught in Lava Lakes in Caverns";
         }
     }
 }

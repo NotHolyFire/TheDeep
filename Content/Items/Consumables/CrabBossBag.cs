@@ -5,6 +5,8 @@ using Terraria.GameContent.ItemDropRules;
 using Terraria.ID;
 using Terraria.ModLoader;
 using TheDeep.Content.Items.Weapons;
+using TheDeep.Content.Items.Weapons.Melee;
+using TheDeep.Content.Items.Weapons.Ranged;
 using TheDeep.Content.NPCs.Boss.CrabBoss;
 
 namespace TheDeep.Content.Items.Consumables

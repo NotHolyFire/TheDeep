@@ -4,6 +4,7 @@ using Terraria.ModLoader;
 using TheDeep.Content.Items.Fish;
 using TheDeep.Content.Items.Material;
 using TheDeep.Content.Projectiles;
+using TheDeep.Content.Projectiles.player.Weapons.Ranged;
 
 namespace TheDeep.Content.Items.Misc
 {
