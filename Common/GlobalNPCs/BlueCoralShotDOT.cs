@@ -1,6 +1,7 @@
 using TheDeep.Content.Projectiles;
 using Terraria;
 using Terraria.ModLoader;
+using TheDeep.Content.Projectiles.player.Weapons.Ranged;
 
 namespace TheDeep.Common.GlobalNPCs
 {

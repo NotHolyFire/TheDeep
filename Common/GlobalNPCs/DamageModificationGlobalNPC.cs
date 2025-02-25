@@ -4,6 +4,7 @@ using Terraria;
 using Terraria.ModLoader;
 using Microsoft.Xna.Framework;
 using Terraria.ID;
+using TheDeep.Content.Buffs.Debuff;
 
 namespace TheDeep.Common.GlobalNPCs
 {
