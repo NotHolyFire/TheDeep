@@ -1,5 +1,7 @@
 # This file will automatically update with entries for new content after a build and reload.
 
+
+
 Items: {
 	Applefin: {
 		DisplayName: Applefin
@@ -62,7 +64,7 @@ Items: {
 
 	Minnow: {
 		DisplayName: Minnow
-		Tooltip: "'Minnow are common and small freshwater fish that are often called trash fish.'"
+		Tooltip: ""
 	}
 
 	Carp: {
@@ -103,12 +105,12 @@ Items: {
 
 	OilFish: {
 		DisplayName: Oil Fish
-		Tooltip: "'Weirdly enough, these fish are sentients pools of oil found underground. They are very flammable, so they are often used as fuel for machinery'"
+		Tooltip: "'These fish are sentients pools of oil found underground. They are very flammable, so they are often used as fuel for machinery, or made into plastic.'"
 	}
 
 	Shrooma: {
 		DisplayName: Shrooma
-		Tooltip: "'A species of fish that disguise as mushrooms to not get eaten by their original predators, only to get caught by mushroom-eating animals.'"
+		Tooltip: ""
 	}
 
 	Woodskip: {
@@ -236,7 +238,7 @@ Items: {
 
 	BambooHattedFish: {
 		DisplayName: Bamboo Hatted Fish
-		Tooltip: "'A fish that was the pet of the master of a long lost clan of warriors. The fish '"
+		Tooltip: "'A fish that was the pet of the master of a long lost clan of warriors.'"
 	}
 
 	Kelptopus: {
@@ -271,12 +273,12 @@ Items: {
 
 	Blackfish: {
 		DisplayName: Blackfish
-		Tooltip: "'A small fish living in the tundra, it doesn't really have anything new going on.'"
+		Tooltip: ""
 	}
 
 	Cactifin: {
 		DisplayName: Cactifin
-		Tooltip: "'A cactus? With fins? That's where it's name came from. It's a cactus fish!'"
+		Tooltip: ""
 	}
 
 	Eel: {
@@ -286,7 +288,7 @@ Items: {
 
 	Fisharaoh: {
 		DisplayName: Fisharaoh
-		Tooltip: "'Some very rich fish that lived in an old empire, and wear fancy desert clothes'"
+		Tooltip: "'Some very rich fish that lived in an old pyramid, and wears fancy desert clothes'"
 	}
 
 	BrassBar: {
@@ -392,7 +394,310 @@ Items: {
 		Tooltip: Little fishies like it!
 		DisplayName: Acorn Butter Ball
 	}
+
+	RemoteControl: {
+		DisplayName: Remote Control
+		Tooltip: Call down airstrikes onto your enemies
+	}
+
+	ZincBattery: {
+		DisplayName: Zinc Battery
+		Tooltip: ""
+	}
+
+	CopperWire: {
+		DisplayName: Copper Wire
+		Tooltip: ""
+	}
+
+	CoastalCrash: {
+		DisplayName: Coastal Crash
+		Tooltip: Hold to charge for more range
+	}
+
+	Electronic: {
+		DisplayName: Electronic
+		Tooltip: "'Slightly worse than a 5090'"
+	}
+
+	Plastic: {
+		DisplayName: Plastic
+		Tooltip: "'You gonna eat that?'"
+	}
+
+	ZincCog: {
+		DisplayName: Zinc Cog
+		Tooltip: ""
+	}
+
+	BrassSheet: {
+		DisplayName: Brass Sheet
+		Tooltip: ""
+	}
+
+	NavalSteelSheet: {
+		DisplayName: Naval Steel Sheet
+		Tooltip: ""
+	}
+
+	ZincSheet: {
+		DisplayName: Zinc Sheet
+		Tooltip: ""
+	}
+
+	MultiRod: {
+		DisplayName: Multi Rod
+		Tooltip: Shoots multiple bobbers
+	}
+
+	SoggyDie: {
+		DisplayName: Soggy Die
+		Tooltip: Slightly increases luck
+	}
+
+	Oilfish: {
+		Tooltip: ""
+		DisplayName: Oilfish
+	}
+
+	WhetfishBait: {
+		Tooltip: ""
+		DisplayName: Whetfish Bait
+	}
+
+	OilfishBait: {
+		Tooltip: ""
+		DisplayName: Oilfish Bait
+	}
+
+	KelptopusBait: {
+		Tooltip: ""
+		DisplayName: Kelptopus Bait
+	}
+
+	ApplefinBait: {
+		Tooltip: ""
+		DisplayName: Applefin Bait
+	}
+
+	ManaFuelCell: {
+		DisplayName: Mana Fuel Cell
+		Tooltip:
+			'''
+			Used to power-up technologies using magic
+			'Mana is everywhere, you just need to know how to extract it.'
+			'''
+	}
+
+	mechpress: {
+		DisplayName: Mechanical Press
+		Tooltip: Used to press shapes into pressed shapes
+	}
+
+	BloodfiendBoots: {
+		DisplayName: NotHolyFire's Boots
+		Tooltip:
+			'''
+			'Great for impersonating horrible developers!'
+			Gallop on, Rocinant..! No, wait.
+			'''
+	}
+
+	BloodfiendCoat: {
+		DisplayName: NotHolyFire's Coat
+		Tooltip:
+			'''
+			'Great for impersonating horrible developers!'
+			Comes with free accessories AND style!
+			'''
+	}
+
+	KrillionKrill: {
+		DisplayName: A Krillion Krill
+		Tooltip: Summons a baby whale shark
+	}
+
+	MystGoggles: {
+		DisplayName: WhiteMyst's Goggles
+		Tooltip:
+			'''
+			'Great for impersonating.. Uh.. WhiteMyst!'
+			Used only for looking good, because they don't work
+			'''
+	}
+
+	MystJacket: {
+		DisplayName: WhiteMyst's Jacket
+		Tooltip:
+			'''
+			'Great for impersonating.. Uh.. WhiteMyst!'
+			Ventilation not included
+			'''
+	}
+
+	MystTrousers: {
+		DisplayName: WhiteMyst's Trousers
+		Tooltip:
+			'''
+			'Great for impersonating.. Uh.. WhiteMyst!'
+			Little Pants of Mixed
+			'''
+	}
+
+	LesserMoonRod: {
+		DisplayName: Lesser Moonlight Pole
+		Tooltip: Has different effects and fishing power based on current moon phase
+	}
+
+	TatteredPages: {
+		DisplayName: Tattered Pages
+		Tooltip: Maybe they could be repurposed...
+	}
+
+	Furukotofumi: {
+		DisplayName: Furukotofumi
+		Tooltip:
+			'''
+			Holds information about the Moon Rituals
+			Use to open a guide about the Moon
+			[c/74BEFC:WIP]
+			'Moon's haunted'
+			'''
+	}
+
+	SandClawStaff: {
+		DisplayName: Sand Claw Staff
+		Tooltip: Shoots sand boulders that explode into shockwaves
+	}
+
+	CoroaReal: {
+		DisplayName: Royal Crown
+		Tooltip:
+			'''
+			2 defense
+			When submerged in water, increase defense, life regeneration and damage reduction
+			'''
+	}
+
+	BlackPearlNecklace: {
+		DisplayName: Black Pearl Necklace
+		Tooltip: Increases luck a bit more
+	}
+
+	PinkPearlNecklace: {
+		DisplayName: Pink Pearl Necklace
+		Tooltip: Increases luck even further
+	}
+
+	WhitePearlNecklace: {
+		DisplayName: White Pearl Necklace
+		Tooltip: Increases your luck very slightly
+	}
+
+	UltraQualityFrog: {
+		DisplayName: A hyperrealistic frog picture as a rare drop from catching/killing frogs in the jungle
+		Tooltip:
+			'''
+			NOT Froggy and Im not a frog 17/02/25 12:37
+			Holy
+			VERY important question
+			Does your mod feature a hyperrealistic frog picture as a rare drop from catching/killing frogs in the jungle
+
+			The Holymind 17/02/25 12:44
+			not yet
+			'''
+	}
+
+	Moonfin: {
+		DisplayName: Moonfin
+		Tooltip:
+			'''
+			Were used as a sacrifice on the Moon Altar by the ancient moon cultists.
+			'Probably someone's girlfriend'
+			'''
+	}
+
+	CrescentMoon: {
+		DisplayName: Crescent Moon
+		Tooltip: ""
+	}
+
+	CalopesJacket: {
+		DisplayName: Calopes' Jacket
+		Tooltip:
+			'''
+			'Great for impersonating artists!'
+			I'll be back.
+			'''
+	}
+
+	CalopesSkull: {
+		DisplayName: Calopes' Skull
+		Tooltip:
+			'''
+			'Great for impersonating artists!'
+			We are.. Bad to the bone
+			'''
+	}
+
+	CalopesTrousers: {
+		DisplayName: Calopes' Trousers
+		Tooltip:
+			'''
+			'Great for impersonating artists!'
+			This bad boy can hold so many bullets...
+			'''
+	}
+
+	ShoneyyBoots: {
+		DisplayName: Shoneyy's Boots
+		Tooltip:
+			'''
+			'Great for impersonating musicians!'
+			Should be rocket-propelled, aren't because it's a costume
+			'''
+	}
+
+	ShoneyyBreastplate: {
+		DisplayName: Shoneyy's Breastplate
+		Tooltip:
+			'''
+			'Great for impersonating musicians!'
+			Sorry, I put fire on the kitchen again :(
+			'''
+	}
+
+	ShoneyyHelmet: {
+		DisplayName: Shoneyy's Helmet
+		Tooltip:
+			'''
+			'Great for impersonating musicians!'
+			Not the bees? What's that?
+			'''
+	}
+
+	ManaInfuserItem: {
+		DisplayName: Star Infuser
+		Tooltip: Transforms stars into energy
+	}
+
+	MechanicalPressItem: {
+		DisplayName: Mechanical Press Item
+		Tooltip: ""
+	}
+
+	PartAssemblerItem: {
+		DisplayName: Part Assembler Item
+		Tooltip: ""
+	}
+
+	FurnaceEngineItem: {
+		DisplayName: Furnace Engine Item
+		Tooltip: ""
+	}
 }
+
+DamageClasses.Reeling.DisplayName: reeling damage
 
 Projectiles: {
 	IndustrialBobber.DisplayName: Industrial Bobber
@@ -402,7 +707,7 @@ Projectiles: {
 	ChargeShot.DisplayName: Charged Shot
 	HarpoonProjectile.DisplayName: Harpoon Projectile
 	BounceShot.DisplayName: Bouncing Shot
-	Shockwave.DisplayName: Sandwave that is coming from the right.. Probably
+	Shockwave.DisplayName: Sandwave
 	RoyalTridentProjectile.DisplayName: Royal Trident Projectile
 	TridentShotFriendly.DisplayName: Riptide Magic Missile
 	ShockwaveL.DisplayName: A sandwave coming from the left, probably
@@ -419,6 +724,16 @@ Projectiles: {
 	GreenCoralShot.DisplayName: Green Coral
 	GreenCoralShard.DisplayName: Green Coral Shard
 	ABobberMostIdeal.DisplayName: A Bobber Most Ideal
+	Airstrike.DisplayName: Airstrike
+	CoastalCrashProjectile.DisplayName: Coastal Crash Projectile
+	MultiBobber.DisplayName: Multi Bobber
+	Juberto.DisplayName: Juberto
+	MoonBobber.DisplayName: Moon Bobber
+	ToxinBubble.DisplayName: Toxin Bubble
+	ToxinPool.DisplayName: Toxin Pool
+	SandBoulder.DisplayName: Sand Boulder
+	PlayerShockwave.DisplayName: Player Shockwave
+	CrescentMoonProjectile.DisplayName: Crescent Moon Projectile
 }
 
 Buffs: {
@@ -451,6 +766,56 @@ Buffs: {
 		DisplayName: Resting
 		Description: You cannot riptide right now!
 	}
+
+	CoastalWhipDebuff: {
+		DisplayName: Coastal Whip Debuff
+		Description: Mods.TheDeep.Buffs.CoastalWhipDebuff.Description
+	}
+
+	JubertoBuff: {
+		DisplayName: Juberto the Whale Shark
+		Description: He's so cute! Look at him! He's so silly!
+	}
+
+	MoonRod14: {
+		DisplayName: "[c/74BEFC:The First Quarter]"
+		Description: Decreases chance of consuming bait, but also increases the chance of not failing at catching something
+	}
+
+	MoonRod34: {
+		DisplayName: "[c/74BEFC:The Third Quarter]"
+		Description: Increases chance of consuming bait, and sometimes you gain extra fish while catching something
+	}
+
+	MoonRodFullMoon: {
+		DisplayName: "[c/74BEFC:The Full Moon]"
+		Description: You have 2 bobbers and decreases enemy spawnrate
+	}
+
+	MoonRodNew: {
+		DisplayName: "[c/74BEFC:The New Moon]"
+		Description: Nothing seems to change.
+	}
+
+	MoonRodWaningCres: {
+		DisplayName: "[c/74BEFC:The Waning Crescent]"
+		Description: Increases the chance of fishing up crates, but sometimes decreases the tier of the catch
+	}
+
+	MoonRodWaningGib: {
+		DisplayName: "[c/74BEFC:The Waning Gibbous]"
+		Description: Decreases the chance of fishing up NPCs
+	}
+
+	MoonRodWaxingCres: {
+		DisplayName: "[c/74BEFC:The Waxing Crescent]"
+		Description: Decreases the chance of fishing up crates, and sometimes increases the tier of the catch
+	}
+
+	MoonRodWaxingGib: {
+		DisplayName: "[c/74BEFC:The Waxing Gibbous]"
+		Description: Increases the chance of fishing up NPCs
+	}
 }
 
 NPCs: {
@@ -458,11 +823,37 @@ NPCs: {
 	CrabBoss.DisplayName: Coastal King
 	Caranguinho.DisplayName: Coastal Servant
 	RoyalTridentNPC.DisplayName: Possessed Trident
+	ElderFisherman.DisplayName: Elder Fisherman
+}
+
+Dialogue: {
+	ElderFisherman: {
+		AnglerDialogue: "{0}? That annoying brat? He's my grandson, but I hate him. He calls himself an Angler but doesn't even fish."
+		StandardDialogue1: The mighty Terrarian huh? Show me your worth! Buy my fishing crap.
+		StandardDialogue2: Crazy stuff goin' around, better than those 'Cah-la-meh-tyh' or 'Far-gowhs' people I've heard.
+		StandardDialogue3: Ever been in the deep sea during a storm? No? Not pretty, I'll tell yer.
+		StandardDialogue4: Y'know, once I survived a crazy storm during a full moon, it seemed much bigger though. Eh, whatever, I don't remember much anyway.
+		UncommonDialogue: I think that moon lady likes fish, try putting a good one on that old pedestal, I'm sure she'll be happy with it.
+		RareDialogue: You use the imperial system? 'Ooh watch out, we got a wave crashing that is 2 buses tall!' Just use the metric system, darn Terrarians.
+		TalkALot: DEAR LORD- Just buy something and go away! You're scaring the.. dead fish!
+	}
+
+	Boss.Oops:
+		'''
+		Oops, sorry about that.. You didn't do it on purpose, right?
+		-Dev
+		'''
+	TheMoon.SuperMoonStart: The Grace of the Moon starts shining upon you...
 }
 
 Tiles: {
-	ZincOreTile.MapEntry: Zinc
+	ZincOreTile.MapEntry: Zinc Ore
 	Industrial_forge.MapEntry: Industrial Forge
+	MechanicalPress.MapEntry: Mechanical Press
+	MoonAltar.MapEntry: The Moon Altar
+	ManaInfuser.MapEntry: Star Infuser
+	PartAssembler.MapEntry: Part Assembler
+	FurnaceEngine.MapEntry: Furnace Engine
 }
 
 WorldGen: {
