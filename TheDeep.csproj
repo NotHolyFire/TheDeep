@@ -14,5 +14,10 @@
 	  <None Remove="Content\Items\Tools\HarpoonLauncher.png" />
 	  <None Remove="Content\Projectiles\HarpoonProjectile.png" />
 	</ItemGroup>
+	<ItemGroup>
+	  <Reference Include="StructureHelper">
+	    <HintPath>lib\StructureHelper.dll</HintPath>
+	  </Reference>
+	</ItemGroup>
 
 </Project>

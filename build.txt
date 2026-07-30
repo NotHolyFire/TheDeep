@@ -1,3 +1,4 @@
-displayName = Submerged [Beta]
-author = NotHolyFire
+displayName = [c/766F88:Submerged:] [c/CDD7E0:Grace of the Moon] [c/1EB882:(BETA)]
+author = Submerged Team
 version = 0.1
+dllReferences = StructureHelper
