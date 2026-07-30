@@ -1,4 +1,4 @@
-﻿
+
 using Microsoft.CodeAnalysis.CSharp.Syntax;
 using Microsoft.Xna.Framework;
 using Mono.Cecil;
