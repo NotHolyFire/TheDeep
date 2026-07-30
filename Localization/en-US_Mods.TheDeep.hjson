@@ -581,17 +581,17 @@ Items: {
 
 	BlackPearlNecklace: {
 		DisplayName: Black Pearl Necklace
-		Tooltip: Increases luck a bit more
+		Tooltip: Increases luck by 0.06
 	}
 
 	PinkPearlNecklace: {
 		DisplayName: Pink Pearl Necklace
-		Tooltip: Increases luck even further
+		Tooltip: Increases luck by 0.1
 	}
 
 	WhitePearlNecklace: {
 		DisplayName: White Pearl Necklace
-		Tooltip: Increases your luck very slightly
+		Tooltip: Increases luck by 0.03
 	}
 
 	UltraQualityFrog: {
@@ -695,6 +695,122 @@ Items: {
 		DisplayName: Furnace Engine Item
 		Tooltip: ""
 	}
+
+	DarkSlash: {
+		DisplayName: Dark Slash
+		Tooltip: ""
+	}
+
+	VertebraRipper: {
+		DisplayName: Vertebra Ripper
+		Tooltip: ""
+	}
+
+	SharpenedCandyCane: {
+		DisplayName: Sharpened Candy Cane
+		Tooltip: ""
+	}
+
+	Bruchius: {
+		DisplayName: Bruchius
+		Tooltip: ""
+	}
+
+	NavalSteelRapier: {
+		DisplayName: Naval Steel Rapier
+		Tooltip: ""
+	}
+
+	FellBullet: {
+		DisplayName: Fell Bullet
+		Tooltip: ""
+	}
+
+	ReefNeedle: {
+		DisplayName: Reef Needle
+		Tooltip: ""
+	}
+
+	Hellreaver: {
+		DisplayName: Hellreaver
+		Tooltip: ""
+	}
+
+	ThornsofNature: {
+		DisplayName: Thornsof Nature
+		Tooltip: ""
+	}
+
+	PrecisionRifle: {
+		DisplayName: Precision Rifle
+		Tooltip: ""
+	}
+
+	SeaBunnyItem: {
+		Tooltip: ""
+		DisplayName: Sea Bunny Item
+	}
+
+	ReefKnightHelmet: {
+		SetBonus: Mods.TheDeep.Items.ReefKnightHelmet.SetBonus
+		DisplayName: Reef Knight Helmet
+		Tooltip: ""
+	}
+
+	FishingMagnet: {
+		DisplayName: Fishing Magnet
+		Tooltip: ""
+	}
+
+	ReefKnightChestplate: {
+		DisplayName: Reef Knight Chestplate
+		Tooltip: ""
+	}
+
+	ReefKnightLeggings: {
+		DisplayName: Reef Knight Leggings
+		Tooltip: ""
+	}
+
+	ReefGoldBar: {
+		DisplayName: Reef Gold Bar
+		Tooltip: ""
+	}
+
+	GiantMantaRayBanner: {
+		DisplayName: Giant Manta Ray Banner
+		Tooltip: ""
+	}
+
+	ReefGoldBrick: {
+		DisplayName: Reef Gold Brick
+		Tooltip: ""
+	}
+
+	ScubaSlimeBanner: {
+		DisplayName: Scuba Slime Banner
+		Tooltip: ""
+	}
+
+	CoastalGreatsword: {
+		DisplayName: Coastal Greatsword
+		Tooltip: ""
+	}
+
+	VertebraeRipper: {
+		DisplayName: Vertebrae Ripper
+		Tooltip: ""
+	}
+
+	HoldoutPiercer: {
+		DisplayName: Holdout Piercer
+		Tooltip: ""
+	}
+
+	Shellshocker: {
+		DisplayName: Shellshocker
+		Tooltip: ""
+	}
 }
 
 DamageClasses.Reeling.DisplayName: reeling damage
@@ -734,6 +850,37 @@ Projectiles: {
 	SandBoulder.DisplayName: Sand Boulder
 	PlayerShockwave.DisplayName: Player Shockwave
 	CrescentMoonProjectile.DisplayName: Crescent Moon Projectile
+	DarkSlashProjectile.DisplayName: Dark Slash Projectile
+	DarkSlashProj.DisplayName: Dark Slash Proj
+	DarkSlashParry.DisplayName: Dark Slash Parry
+	VertebraRipperParry.DisplayName: Vertebra Ripper Parry
+	VertebraRipperProjectile.DisplayName: Vertebra Ripper Projectile
+	SharpenedCandyCaneParry.DisplayName: Sharpened Candy Cane Parry
+	SharpenedCandyCaneProjectile.DisplayName: Sharpened Candy Cane Projectile
+	BruchiusParry.DisplayName: Bruchius Parry
+	BruchiusProjectile.DisplayName: Bruchius Projectile
+	NavalSteelRapierParry.DisplayName: Naval Steel Rapier Parry
+	NavalSteelRapierProjectile.DisplayName: Naval Steel Rapier Projectile
+	NavalSteelRapierProj.DisplayName: Naval Steel Rapier Proj
+	BulletThatIsFell.DisplayName: Bullet That Is Fell
+	ReefNeedleParry.DisplayName: Reef Needle Parry
+	ReefNeedleProjectile.DisplayName: Reef Needle Projectile
+	HellreaverParry.DisplayName: Hellreaver Parry
+	HellreaverProjectile.DisplayName: Hellreaver Projectile
+	ThornsofNatureParry.DisplayName: Thornsof Nature Parry
+	ThornsofNatureProjectile.DisplayName: Thornsof Nature Projectile
+	MagnetBobber.DisplayName: Magnet Bobber
+	TidalWaveHeldProj.DisplayName: Tidal Wave Held Proj
+	TidalWaveWaterProjectile.DisplayName: Tidal Wave Water Projectile
+	CoastalGreatsword_Projectile.DisplayName: Coastal Greatsword_ Projectile
+	VertebraeRipperParry.DisplayName: Vertebrae Ripper Parry
+	VertebraeRipperSwordProj.DisplayName: Vertebrae Ripper Sword Proj
+	RiptideBoomerang.DisplayName: Riptide Boomerang
+	RiptideProjectile.DisplayName: Riptide Projectile
+	RiptideSuperAttack.DisplayName: Riptide Super Attack
+	PiercerHoldoutProj.DisplayName: Piercer Holdout Proj
+	PiercerParry.DisplayName: Piercer Parry
+	ShellshockerMk2Projectile.DisplayName: Shellshocker Mk2 Projectile
 }
 
 Buffs: {
@@ -816,6 +963,41 @@ Buffs: {
 		DisplayName: "[c/74BEFC:The Waxing Gibbous]"
 		Description: Increases the chance of fishing up NPCs
 	}
+
+	ParrySuccess: {
+		DisplayName: Parried!
+		Description: 400% increased damage for next melee strike
+	}
+
+	ParryFail: {
+		DisplayName: Parry Failed :(
+		Description: Your guard is down..!
+	}
+
+	ParryCooldown: {
+		DisplayName: Parry Cooldown
+		Description: You can't parry for now.
+	}
+
+	CrimsonsHunger: {
+		DisplayName: Crimsons Hunger
+		Description: Mods.TheDeep.Buffs.CrimsonsHunger.Description
+	}
+
+	DarkSlashBuff: {
+		DisplayName: Dark Slash Buff
+		Description: Mods.TheDeep.Buffs.DarkSlashBuff.Description
+	}
+
+	Laceration: {
+		DisplayName: Laceration
+		Description: Mods.TheDeep.Buffs.Laceration.Description
+	}
+
+	Pressure: {
+		DisplayName: Pressure
+		Description: Mods.TheDeep.Buffs.Pressure.Description
+	}
 }
 
 NPCs: {
@@ -824,6 +1006,13 @@ NPCs: {
 	Caranguinho.DisplayName: Coastal Servant
 	RoyalTridentNPC.DisplayName: Possessed Trident
 	ElderFisherman.DisplayName: Elder Fisherman
+	SeaBunny.DisplayName: Sea Bunny
+	OceanFish1.DisplayName: Ocean Fish1
+	OceanFish2.DisplayName: Ocean Fish2
+	OceanFish3.DisplayName: Ocean Fish3
+	OceanFish4.DisplayName: Ocean Fish4
+	GiantMantaRay.DisplayName: Giant Manta Ray
+	ScubaSlime.DisplayName: Scuba Slime
 }
 
 Dialogue: {
@@ -854,6 +1043,7 @@ Tiles: {
 	ManaInfuser.MapEntry: Star Infuser
 	PartAssembler.MapEntry: Part Assembler
 	FurnaceEngine.MapEntry: Furnace Engine
+	ScrapTile.MapEntry: Scrap Tile
 }
 
 WorldGen: {

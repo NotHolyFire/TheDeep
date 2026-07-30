@@ -1,0 +1,1062 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+
+
+Items: {
+	Applefin: {
+		DisplayName: Maçãzinha
+		Tooltip:
+			'''
+			Melhorias pequenas para todas as estatísticas
+			'Maçãzinhas são peixes de água doce que se alimentam de algas e outras plantas aquáticas.
+			Sua forma é parecida com uma maçã, que infelizmente para eles, não ajuda muito com sobrevivência.'
+			'''
+	}
+
+	GoldenApplefin: {
+		DisplayName: Maçãzinha Dourada
+		Tooltip:
+			'''
+			Melhoria média para todas as estatísticas
+			'Mas que original hein, você vai encantar ele agora?'
+			'''
+	}
+
+	NavalSteelBar: {
+		DisplayName: Barra de Aço naval
+		Tooltip: Aço resistente à água normalmente usado em equipamentos de pesca
+	}
+
+	SalvageableScrap: {
+		DisplayName: Sucata reciclável
+		Tooltip: Pode ser derretido em uma Fornalha
+	}
+
+	IndustrialFishingRod: {
+		DisplayName: Vara de pesca industrial
+		Tooltip: A linha de pesca nunca quebra
+	}
+
+	MagnetBait: {
+		DisplayName: Isca Magnética
+		Tooltip:
+			'''
+			Pesca mais de um item reciclável por vez
+			'Tente não pescar uma bomba!'
+			'''
+	}
+
+	SalvageablePlate: {
+		DisplayName: Chapa reciclável
+		Tooltip: Pode ser derretido em uma Fornalha
+	}
+
+	NavalSteelFishingSpear: {
+		DisplayName: Lança de pesca de Aço naval
+		Tooltip: ""
+	}
+
+	Torpedo: {
+		DisplayName: Torpedo
+		Tooltip:
+			'''
+			Usado pelo Lança-Torpedos
+			'Torpedão Campeão SMS'
+			'''
+	}
+
+	TorpedoLauncher: {
+		DisplayName: Lança-Torpedos
+		Tooltip: Atira Torpedos Que não são afetados pela água
+	}
+
+	Minnow: {
+		DisplayName: Piaba
+		Tooltip: ""
+	}
+
+	Carp: {
+		DisplayName: Carpa
+		Tooltip: ""
+	}
+
+	AFishingRodMostIdeal: {
+		DisplayName: A Fishing Pole Most Ideal
+		Tooltip:
+			'''
+			Fly, broken wings
+			I know you are still with me
+			All I need is a nudge to get me started
+			Fly, broken wings
+			To somewhere we can be free
+			Closer to our ideal
+			[...]
+			Please die, little dreams
+			Kill the camellias in me
+			Wouldn't it be easier to give in?
+			Why are these hands chasing dreams out of my reach?
+			Is my thirst for normalcy odd?
+			Fly, perfect wings (goodbye, goodbye, goodbye)
+			Where have you been hiding? (Goodbye, goodbye, goodbye)
+			Bring me to the mind that got us started
+			Fly, perfect wings (goodbye, goodbye, goodbye)
+			Show them who I can be (goodbye, goodbye, goodbye)
+			For the one last time, if you will
+			That's all
+			'''
+	}
+
+	Gunpowderfish: {
+		DisplayName: Peixe-Pólvora
+		Tooltip: "'Estranhamente, ele não é relacionado ao Robalomite em qualquer forma'"
+	}
+
+	OilFish: {
+		DisplayName: Barbatanas de óleo
+		Tooltip: "'Esses peixes são poças de óleo vivas encontradas no subterrâneo. Eles são extremamente inflamavéis, então são usados como combustível para máquinas, ou para fazer plástico.'"
+	}
+
+	Shrooma: {
+		DisplayName: Cogumelinho
+		Tooltip: ""
+	}
+
+	Woodskip: {
+		DisplayName: Madeirão
+		Tooltip: "'Pedaços de madeira que viram... madeira?'"
+	}
+
+	DynamiteBass: {
+		DisplayName: Robalomite
+		Tooltip: Boing!! Boing!!! Boing!!! Bo- *Boom*
+	}
+
+	SeaShadeChestplate: {
+		DisplayName: Peitoral da Sombra do Mar
+		Tooltip:
+			'''
+			8% aumento de danos
+			5% aumento de chance de acerto crítico
+			'''
+	}
+
+	SeaShadeDivingMask: {
+		DisplayName: Máscara de mergulho da Sombra do Mar
+		Tooltip: +8% Redução de danos
+		SetBonus:
+			'''
+			Reduz a velocidade de movimento em 30%
+			A chance dos inimigos mirarem em você é maior
+			Você afunda mais rápido em líquidos
+			'''
+	}
+
+	SeaShadeHeadgear: {
+		DisplayName: Capacete da Sombra do Mar
+		Tooltip: +8% velocidade de movimento
+		SetBonus:
+			'''
+			+10% velocidade de movimento
+			+7% aumento em danos
+			Você pode nadar em líquidos
+			'''
+	}
+
+	SeaShadeLeggings: {
+		DisplayName: Calças da Sombra do mar
+		Tooltip:
+			'''
+			+5% aumento em chance de acerto crítico
+			+6% velocidade de movimento
+			'''
+	}
+
+	Whetfish: {
+		DisplayName: Linguado Pedra-de-amolar
+		Tooltip:
+			'''
+			Aumenta o dano em 10%
+			'Pesado, igual tua m-'
+			'''
+	}
+
+	Dinofin: {
+		DisplayName: Peixossauro
+		Tooltip: "'Um peixe Pré-Histórico que sobreviveu a extinção. talvez ele tenha algum parentesco ao Barbatanas de óleo?'"
+	}
+
+	Piercer: {
+		DisplayName: O Perfurador
+		Tooltip:
+			'''
+			Transforma bolas de mosquete em Projeteis de alta velocidade
+			Clique com o botão direito para atirar um projétil que acerta inimigos múltiplas vezes
+			'''
+	}
+
+	HarpoonLauncher: {
+		DisplayName: Lança-Arpões
+		Tooltip: ""
+	}
+
+	Sharpshooter: {
+		DisplayName: Tiro Certeiro
+		Tooltip:
+			'''
+			Transforma bolas de mosquete em Projeteis de alta velocidade
+			Clique com o botão direito para atirar um projétil que ricocheteia e acerta inimigos múltiplas vezes 
+			'''
+	}
+
+	krabby_patty: {
+		DisplayName: Hambúrguer de Siri
+		Tooltip:
+			'''
+			Ataques Físicos fazem os inimigos deixar cair mais dinheiro
+			'ESTOOOOU PRONTO!'
+			'''
+	}
+
+	AzureHelmet: {
+		DisplayName: Capacete de Azure
+		Tooltip:
+			'''
+			'Ótimo para fingir que é um artista!'
+			Não provem defesa, mas foi feito para batalha.. por algum motivo
+			'''
+	}
+
+	AzureBreastplate: {
+		DisplayName: Peitoral de Azure
+		Tooltip:
+			'''
+			'Ótimo para fingir que é um artista!'
+			Parece encantado.. espera, não, é só tinta mesmo
+			'''
+	}
+
+	AzureLeggings: {
+		DisplayName: Calças de Azure
+		Tooltip:
+			'''
+			'Ótimo para fingir que é um artista!'
+			SUPER estilosa!
+			'''
+	}
+
+	BambooHattedFish: {
+		DisplayName: Peixe Chapéu-de-bambu
+		Tooltip: "'O peixe de estimação do mestre de um clã de guerreiros esquecidos.'"
+	}
+
+	Kelptopus: {
+		DisplayName: polvo-alga
+		Tooltip: "'Alvo? Polga? polvo-alga.'"
+	}
+
+	CrabBossBag: {
+		DisplayName: Bolsa do Tesouro (Rei Costal)
+		Tooltip: ""
+	}
+
+	ZincOre: {
+		DisplayName: Minério de Zinco
+		Tooltip: ""
+	}
+
+	CrabCrown: {
+		Tooltip: ""
+		DisplayName: Coroa Crustácea
+	}
+
+	ZincBar: {
+		DisplayName: Barra de Zinco
+		Tooltip: ""
+	}
+
+	IndustrialForge: {
+		DisplayName: Forja Industrial
+		Tooltip: ""
+	}
+
+	Blackfish: {
+		DisplayName: Bodião-do-norte
+		Tooltip: ""
+	}
+
+	Cactifin: {
+		DisplayName: Barbatanas de cacto
+		Tooltip: ""
+	}
+
+	Eel: {
+		DisplayName: Enguia
+		Tooltip: "'Enguias apenas saem durante a noite. Durante o dia elas ficam no chão do oceano, esperando peixes menores chegarem perto.'"
+	}
+
+	Fisharaoh: {
+		DisplayName: Peixe-Faraó
+		Tooltip: "'Um peixe rico que vive em uma pirâmide, e veste roupas do deserto estilosas'"
+	}
+
+	BrassBar: {
+		DisplayName: Barra de Latão
+		Tooltip: ""
+	}
+
+	BrassTorpedoLauncher: {
+		DisplayName: Lança-Torpedos de Latão
+		Tooltip: ""
+	}
+
+	idusforge: {
+		DisplayName: Forja Industrial
+		Tooltip: Capaz de derreter metais em ligas
+	}
+
+	BrassFishingRod: {
+		DisplayName: Vara de pesca de Latão
+		Tooltip:
+			'''
+			A linha de pesca nunca quebra
+			Lança 2 Boias
+			'''
+	}
+
+	CrabBossRelic: {
+		DisplayName: Relíquia do Rei Costal
+		Tooltip: ""
+	}
+
+	CrabBossMask: {
+		DisplayName: Máscara do Rei Costal
+		Tooltip: ""
+	}
+
+	Riptide: {
+		DisplayName: Maré Alta
+		Tooltip:
+			'''
+			Fica [c/74BEFC:Sobrecarregado] quando submerso em água
+			Clique com o Botão direito enquanto submerso em água para fazer uma [c/74BEFC:investida] em direção ao cursor
+			Aumenta a mobilidade em líquidos quando segurado
+			'A fúria das marés, na palma da sua mão'
+			'''
+	}
+
+	Bladefish: {
+		DisplayName: Peixe-tapa
+		Tooltip: "'Um tapa na tua cara!'"
+	}
+
+	BrassHelmet: {
+		SetBonus:
+			'''
+			Aumenta a velocidade de mineração em 10%
+			funcionalidade do medidor de profundidade
+			Habilita o Pulo automático
+			'''
+		DisplayName: Capacete de Latão
+		Tooltip: Aumenta o poder de pescaria em 8
+	}
+
+	BrassChestplate: {
+		DisplayName: Peitoral de Latão
+		Tooltip:
+			'''
+			Aumenta a velocidade de mineração em 8%
+			Aumento na regeneração de vida
+			'''
+	}
+
+	BrassLeggings: {
+		DisplayName: Calças de Latão
+		Tooltip: Aumento na velocidade de movimento e aceleração
+	}
+
+	BrassDrill: {
+		DisplayName: Furadeira de Latão
+		Tooltip: Forte o suficiente para minerar Cobalto e Paládio
+	}
+
+	TidalWave: {
+		DisplayName: Maremoto
+		Tooltip: Atira bolas de coral e uma esfera de água concentrada que acerta inimigos multiplas vezes
+	}
+
+	Shellshock: {
+		DisplayName: Metralhaconcha
+		Tooltip:
+			'''
+			Atira corais coloridos, cada cor com um efeito diferente.
+			'Uma concha rara, encontrada nas praias do Rio de Janeiro.'
+			'''
+	}
+
+	CursedCrown: {
+		DisplayName: Coroa Amaldiçoada
+		Tooltip: Invoca o Rei Costal quando usada na Praia
+	}
+
+	AcornButterBall: {
+		Tooltip: Peixinhos amam isso!
+		DisplayName: Bolinha de manteiga de avelã
+	}
+
+	RemoteControl: {
+		DisplayName: Controle Remoto
+		Tooltip: invoca um ataque de misseis do céu
+	}
+
+	ZincBattery: {
+		DisplayName: Bateria de Zinco
+		Tooltip: "'Não jogue no oceano.'"
+	}
+
+	CopperWire: {
+		DisplayName: Fio de cobre
+		Tooltip: ""
+	}
+
+	CoastalCrash: {
+		DisplayName: Beliscada Costal
+		Tooltip: Segure o Botão de ataque para aumentar o alcance
+	}
+
+	Electronic: {
+		DisplayName: Eletrônico
+		Tooltip: "'Um pouco pior que uma 5090'"
+	}
+
+	Plastic: {
+		DisplayName: Plástico
+		Tooltip: "'Vai comer isso aí?'"
+	}
+
+	ZincCog: {
+		DisplayName: Engrenagem de Zinco
+		Tooltip: ""
+	}
+
+	BrassSheet: {
+		DisplayName: Chapa de Latão
+		Tooltip: ""
+	}
+
+	NavalSteelSheet: {
+		DisplayName: Chapa de Aço naval
+		Tooltip: ""
+	}
+
+	ZincSheet: {
+		DisplayName: Chapa de Zinco
+		Tooltip: ""
+	}
+
+	MultiRod: {
+		DisplayName: Multi-Vara
+		Tooltip: Lança múltiplas boias
+	}
+
+	SoggyDie: {
+		DisplayName: Dado molhado
+		Tooltip: Aumenta um pouco a sorte
+	}
+
+	Oilfish: {
+		Tooltip: ""
+		DisplayName: Barbatanas de óleo
+	}
+
+	WhetfishBait: {
+		Tooltip: ""
+		DisplayName: Isca de Linguado Pedra-de-amolar
+	}
+
+	OilfishBait: {
+		Tooltip: ""
+		DisplayName: Isca de Barbatanas de óleo
+	}
+
+	KelptopusBait: {
+		Tooltip: ""
+		DisplayName: Isca de polvo-alga
+	}
+
+	ApplefinBait: {
+		Tooltip: ""
+		DisplayName: isca de Maçãzinha
+	}
+
+	ManaFuelCell: {
+		DisplayName: Célula de energia de Mana
+		Tooltip:
+			'''
+			Usada para alimentar máquinas de tecnogia anvançada usando magia
+			'Mana está por toda a parte, você só precisa saber extrair-la.'
+			'''
+	}
+
+	mechpress: {
+		DisplayName: Prensa Mecânica
+		Tooltip: Usada para criar chapas
+	}
+
+	BloodfiendBoots: {
+		DisplayName: Botas de NotHolyFire
+		Tooltip:
+			'''
+			'Ótimo para fingir ser um desenvolvedor!'
+			Gallop on, Rocinant..! Não, pera.
+			'''
+	}
+
+	BloodfiendCoat: {
+		DisplayName: Casaco de NotHolyFire
+		Tooltip:
+			'''
+			'Ótimo para fingir ser um desenvolvedor!'
+			já vem com Acessórios e estilo grátis!
+			'''
+	}
+
+	KrillionKrill: {
+		DisplayName: Um Krillhão de Krill
+		Tooltip: Invoca Juberto, o Tubarão-Baleia
+	}
+
+	MystGoggles: {
+		DisplayName: Óculos de WhiteMyst
+		Tooltip:
+			'''
+			'Ótimo para fingir ser.. Uh.. WhiteMyst!'
+			Usado só por estilo, eles não funcionam
+			'''
+	}
+
+	MystJacket: {
+		DisplayName: Jaqueta de WhiteMyst
+		Tooltip:
+			'''
+			'Ótimo para fingir ser.. Uh.. WhiteMyst!'
+			Ventilação não incluída
+			'''
+	}
+
+	MystTrousers: {
+		DisplayName: Calças de WhiteMyst
+		Tooltip:
+			'''
+			'Ótimo para fingir ser.. Uh.. WhiteMyst!'
+			Calcinha do Misto
+			'''
+	}
+
+	LesserMoonRod: {
+		DisplayName: Vara de Pescar lunar Simples
+		Tooltip: Possuí efeitos diferentes baseados na fase atual da lua
+	}
+
+	TatteredPages: {
+		DisplayName: Páginas rasgadas
+		Tooltip: Talvez possam ser reutilizadas...
+	}
+
+	Furukotofumi: {
+		DisplayName: Furukotofumi
+		Tooltip:
+			'''
+			Possuí informações nos rituais da lua
+			Clique com o botão direito para abrir o livro
+			[c/74BEFC:WIP]
+			'Isso não é uma lua... pera, é sim.'
+			'''
+	}
+
+	SandClawStaff: {
+		DisplayName: Cajado da Garra de areia
+		Tooltip: Atira rochedos de areia que se geram ondas de choque
+	}
+
+	CoroaReal: {
+		DisplayName: Coroa Real
+		Tooltip:
+			'''
+			2 defesa
+			Aumentos em defesa, regeneração de vida e redução de danos quando submerso em água
+			'''
+	}
+
+	BlackPearlNecklace: {
+		DisplayName: Colar de pérolas negras
+		Tooltip: Aumento razoável da sorte
+	}
+
+	PinkPearlNecklace: {
+		DisplayName: Colar de pérolas rosas
+		Tooltip: Aumenta bastante a sorte
+	}
+
+	WhitePearlNecklace: {
+		DisplayName: Colar de pérolas brancas
+		Tooltip: Aumenta um pouco a sorte
+	}
+
+	UltraQualityFrog: {
+		DisplayName: Uma foto hyper-realista de um sapo como um drop raro ao matar/capturar sapos na selva
+		Tooltip:
+			'''
+			NÃO é o froggy e eu não sou um sapo 17/02/25 12:37
+			Holy
+			pergunta SUPER importante
+			O seu mod tem a Uma foto hyper-realista de um sapo como um drop raro ao matar/capturar sapos na selva
+
+			The Holymind 17/02/25 12:44
+			Ainda não
+
+			Porque eu traduzi isso? -Azure 31/03/25 14:38
+			'''
+	}
+
+	Moonfin: {
+		DisplayName: Barbatanas da Lua
+		Tooltip:
+			'''
+			Era usado como sacrifício pelos Cultistas da lua.
+			'Proavelmente a namorada de alguém'
+			'''
+	}
+
+	CrescentMoon: {
+		DisplayName: Lua Crescente
+		Tooltip: ""
+	}
+
+	CalopesJacket: {
+		DisplayName: Jaqueta do Calopes
+		Tooltip:
+			'''
+			'Ótimo para fingir que é um artista!'
+			Eu voltarei.
+			'''
+	}
+
+	CalopesSkull: {
+		DisplayName: Caveira do Calopes
+		Tooltip:
+			'''
+			'Ótimo para fingir que é um artista!'
+			Eu sou.. Mau até o osso
+			'''
+	}
+
+	CalopesTrousers: {
+		DisplayName: Pantalonas do Calopes
+		Tooltip:
+			'''
+			'Ótimo para fingir que é um artista!'
+			Essa maravilha consegue carregar bastante munição...
+			'''
+	}
+
+	ShoneyyBoots: {
+		DisplayName: Botas de Shoneyy
+		Tooltip:
+			'''
+			'Ótimo para fingir que é um músico!'
+			Davia ter botas foguete, mas não tem porque é uma fantasia
+			'''
+	}
+
+	ShoneyyBreastplate: {
+		DisplayName: Peitoral de Shoneyy
+		Tooltip:
+			'''
+			'Ótimo para fingir que é um músico!'
+			Foi mal, eu queimei a cozinha denovo :(
+			'''
+	}
+
+	ShoneyyHelmet: {
+		DisplayName: Capacete de Shoneyy
+		Tooltip:
+			'''
+			'Great for impersonating musicians!'
+			Not the bees? What's that?
+			'''
+	}
+
+	ManaInfuserItem: {
+		DisplayName: Infusor de estrelas
+		Tooltip: Transforma estrelas caídas em energia
+	}
+
+	MechanicalPressItem: {
+		DisplayName: Prensa mecânica
+		Tooltip: ""
+	}
+
+	PartAssemblerItem: {
+		DisplayName: Montador de partes
+		Tooltip: ""
+	}
+
+	FurnaceEngineItem: {
+		DisplayName: Motor Fornalha
+		Tooltip: ""
+	}
+
+	DarkSlash: {
+		// DisplayName: Dark Slash
+		// Tooltip: ""
+	}
+
+	VertebraRipper: {
+		// DisplayName: Vertebra Ripper
+		// Tooltip: ""
+	}
+
+	SharpenedCandyCane: {
+		// DisplayName: Sharpened Candy Cane
+		// Tooltip: ""
+	}
+
+	Bruchius: {
+		// DisplayName: Bruchius
+		// Tooltip: ""
+	}
+
+	NavalSteelRapier: {
+		// DisplayName: Naval Steel Rapier
+		// Tooltip: ""
+	}
+
+	FellBullet: {
+		// DisplayName: Fell Bullet
+		// Tooltip: ""
+	}
+
+	ReefNeedle: {
+		// DisplayName: Reef Needle
+		// Tooltip: ""
+	}
+
+	Hellreaver: {
+		// DisplayName: Hellreaver
+		// Tooltip: ""
+	}
+
+	ThornsofNature: {
+		// DisplayName: Thornsof Nature
+		// Tooltip: ""
+	}
+
+	PrecisionRifle: {
+		// DisplayName: Precision Rifle
+		// Tooltip: ""
+	}
+
+	SeaBunnyItem: {
+		// Tooltip: ""
+		// DisplayName: Sea Bunny Item
+	}
+
+	ReefKnightHelmet: {
+		// SetBonus: Mods.TheDeep.Items.ReefKnightHelmet.SetBonus
+		// DisplayName: Reef Knight Helmet
+		// Tooltip: ""
+	}
+
+	FishingMagnet: {
+		// DisplayName: Fishing Magnet
+		// Tooltip: ""
+	}
+
+	ReefKnightChestplate: {
+		// DisplayName: Reef Knight Chestplate
+		// Tooltip: ""
+	}
+
+	ReefKnightLeggings: {
+		// DisplayName: Reef Knight Leggings
+		// Tooltip: ""
+	}
+
+	ReefGoldBar: {
+		// DisplayName: Reef Gold Bar
+		// Tooltip: ""
+	}
+
+	GiantMantaRayBanner: {
+		// DisplayName: Giant Manta Ray Banner
+		// Tooltip: ""
+	}
+
+	ReefGoldBrick: {
+		// DisplayName: Reef Gold Brick
+		// Tooltip: ""
+	}
+
+	ScubaSlimeBanner: {
+		// DisplayName: Scuba Slime Banner
+		// Tooltip: ""
+	}
+
+	CoastalGreatsword: {
+		// DisplayName: Coastal Greatsword
+		// Tooltip: ""
+	}
+
+	VertebraeRipper: {
+		// DisplayName: Vertebrae Ripper
+		// Tooltip: ""
+	}
+
+	HoldoutPiercer: {
+		// DisplayName: Holdout Piercer
+		// Tooltip: ""
+	}
+
+	Shellshocker: {
+		// DisplayName: Shellshocker
+		// Tooltip: ""
+	}
+}
+
+DamageClasses.Reeling.DisplayName: Dano Pesqueiro
+
+Projectiles: {
+	IndustrialBobber.DisplayName: Boia industrial
+	NavalSteelFishingSpearProjectile.DisplayName: Lança de pesca de Aço naval
+	TorpedoProjectile.DisplayName: Torpedo
+	DynamiteBassBoing.DisplayName: Robalomite Saltitante
+	ChargeShot.DisplayName: Tiro Carregado
+	HarpoonProjectile.DisplayName: Arpão
+	BounceShot.DisplayName: Tiro Saltitante
+	Shockwave.DisplayName: Sandwave
+	RoyalTridentProjectile.DisplayName: Projétil do Tridente Real
+	TridentShotFriendly.DisplayName: Míssil mágico da Maré Alta
+	ShockwaveL.DisplayName: Onda de Areia
+	TridentShotHostile.DisplayName: Míssil Mágico do Tridente Possuído
+	BrassBobber.DisplayName: Boia de Latão
+	RedCoralShot.DisplayName: Coral Vermelho
+	BlueCoralShot.DisplayName: Coral Azul
+	OrangeCoralShot.DisplayName: Coral Laranja
+	BrassDrillProjectile.DisplayName: Furadeira de Latão
+	TideInABall.DisplayName: Esfera de água Concentrada
+	TidalWaveHoldout.DisplayName: Maremoto
+	TidesCoral.DisplayName: Coral do Maremoto
+	PinkCoralShot.DisplayName: Coral Rosa
+	GreenCoralShot.DisplayName: Coral Verde
+	GreenCoralShard.DisplayName: Frangmento de Coral Verde
+	ABobberMostIdeal.DisplayName: A Bobber Most Ideal
+	Airstrike.DisplayName: Ataque Aéreo
+	CoastalCrashProjectile.DisplayName: Beliscada Costal
+	MultiBobber.DisplayName: Multi boia
+	Juberto.DisplayName: Juberto
+	MoonBobber.DisplayName: Boia da Lua
+	ToxinBubble.DisplayName: Bolha tóxica
+	ToxinPool.DisplayName: Poça tóxica
+	SandBoulder.DisplayName: Rochedo de Areia
+	PlayerShockwave.DisplayName: Onda de choque
+	CrescentMoonProjectile.DisplayName: Lua Crescente
+	// DarkSlashProjectile.DisplayName: Dark Slash Projectile
+	// DarkSlashProj.DisplayName: Dark Slash Proj
+	// DarkSlashParry.DisplayName: Dark Slash Parry
+	// VertebraRipperParry.DisplayName: Vertebra Ripper Parry
+	// VertebraRipperProjectile.DisplayName: Vertebra Ripper Projectile
+	// SharpenedCandyCaneParry.DisplayName: Sharpened Candy Cane Parry
+	// SharpenedCandyCaneProjectile.DisplayName: Sharpened Candy Cane Projectile
+	// BruchiusParry.DisplayName: Bruchius Parry
+	// BruchiusProjectile.DisplayName: Bruchius Projectile
+	// NavalSteelRapierParry.DisplayName: Naval Steel Rapier Parry
+	// NavalSteelRapierProjectile.DisplayName: Naval Steel Rapier Projectile
+	// NavalSteelRapierProj.DisplayName: Naval Steel Rapier Proj
+	// BulletThatIsFell.DisplayName: Bullet That Is Fell
+	// ReefNeedleParry.DisplayName: Reef Needle Parry
+	// ReefNeedleProjectile.DisplayName: Reef Needle Projectile
+	// HellreaverParry.DisplayName: Hellreaver Parry
+	// HellreaverProjectile.DisplayName: Hellreaver Projectile
+	// ThornsofNatureParry.DisplayName: Thornsof Nature Parry
+	// ThornsofNatureProjectile.DisplayName: Thornsof Nature Projectile
+	// MagnetBobber.DisplayName: Magnet Bobber
+	// TidalWaveHeldProj.DisplayName: Tidal Wave Held Proj
+	// TidalWaveWaterProjectile.DisplayName: Tidal Wave Water Projectile
+	// CoastalGreatsword_Projectile.DisplayName: Coastal Greatsword_ Projectile
+	// VertebraeRipperParry.DisplayName: Vertebrae Ripper Parry
+	// VertebraeRipperSwordProj.DisplayName: Vertebrae Ripper Sword Proj
+	// RiptideBoomerang.DisplayName: Riptide Boomerang
+	// RiptideProjectile.DisplayName: Riptide Projectile
+	// RiptideSuperAttack.DisplayName: Riptide Super Attack
+	// PiercerHoldoutProj.DisplayName: Piercer Holdout Proj
+	// PiercerParry.DisplayName: Piercer Parry
+	// ShellshockerMk2Projectile.DisplayName: Shellshocker Mk2 Projectile
+}
+
+Buffs: {
+	Sharpened: {
+		DisplayName: Afiado
+		Description: 10% Aumento em danos
+	}
+
+	LowBattery: {
+		DisplayName: Bateria fraca
+		Description: O perfurador e Tiro certeiro estão em cooldown!
+	}
+
+	HarpoonStuck: {
+		DisplayName: Arpão Preso
+		Description: DOORS STUCK
+	}
+
+	BlueCoralShotDebuff: {
+		DisplayName: Blue Coral Shot Debuff
+		Description: Mods.TheDeep.Buffs.BlueCoralShotDebuff.Description
+	}
+
+	Stunned: {
+		DisplayName: Tremendo
+		Description: Defesa reduzida em 10%
+	}
+
+	Resting: {
+		DisplayName: Maré Baixa
+		Description: Você não pode usar a investida agora!
+	}
+
+	CoastalWhipDebuff: {
+		DisplayName: Coastal Whip Debuff
+		Description: Mods.TheDeep.Buffs.CoastalWhipDebuff.Description
+	}
+
+	JubertoBuff: {
+		DisplayName: Juberto o Tubarão-Baleia
+		Description: Ele é tão fofinho! Olha pra ele! Ele é tão fofinho!
+	}
+
+	MoonRod14: {
+		DisplayName: "[c/74BEFC:O Quarto Crescente]"
+		Description: Diminui as chances de consumir iscas, mas aumenta a chance da linha quebrar
+	}
+
+	MoonRod34: {
+		DisplayName: "[c/74BEFC:O Quarto Minguante]"
+		Description: Aumenta as chances de consumir iscas, mas você pode pegar um peixe extra ao pescar algo
+	}
+
+	MoonRodFullMoon: {
+		DisplayName: "[c/74BEFC:A Lua Cheia]"
+		Description: Você tem 2 boias e taxa de criação de inimigos reduzida
+	}
+
+	MoonRodNew: {
+		DisplayName: "[c/74BEFC:A Lua Nova]"
+		Description: Parece que nada mudou.
+	}
+
+	MoonRodWaningCres: {
+		DisplayName: "[c/74BEFC:A Lua Minguante]"
+		Description: Aumenta a chance de pescar caixotes, mas pode diminuir o tier do item pescado
+	}
+
+	MoonRodWaningGib: {
+		DisplayName: "[c/74BEFC:A Lua Balsâmica]"
+		Description: Diminui as chances de pescar Inimigos
+	}
+
+	MoonRodWaxingCres: {
+		DisplayName: "[c/74BEFC:A Lua Crescente]"
+		Description: Diminui a chance de pescar caixotes, mas pode Aumentar o tier do item pescado
+	}
+
+	MoonRodWaxingGib: {
+		DisplayName: "[c/74BEFC:A Lua Gibosa]"
+		Description: Aumenta as chances de pescar inimigos
+	}
+
+	ParrySuccess: {
+		// DisplayName: Parried!
+		// Description: 400% increased damage for next melee strike
+	}
+
+	ParryFail: {
+		// DisplayName: Parry Failed :(
+		// Description: Your guard is down..!
+	}
+
+	ParryCooldown: {
+		// DisplayName: Parry Cooldown
+		// Description: You can't parry for now.
+	}
+
+	CrimsonsHunger: {
+		// DisplayName: Crimsons Hunger
+		// Description: Mods.TheDeep.Buffs.CrimsonsHunger.Description
+	}
+
+	DarkSlashBuff: {
+		// DisplayName: Dark Slash Buff
+		// Description: Mods.TheDeep.Buffs.DarkSlashBuff.Description
+	}
+
+	Laceration: {
+		// DisplayName: Laceration
+		// Description: Mods.TheDeep.Buffs.Laceration.Description
+	}
+
+	Pressure: {
+		// DisplayName: Pressure
+		// Description: Mods.TheDeep.Buffs.Pressure.Description
+	}
+}
+
+NPCs: {
+	TestZombie.DisplayName: Zumbi de Teste
+	CrabBoss.DisplayName: Rei Costal
+	Caranguinho.DisplayName: Servo Costal
+	RoyalTridentNPC.DisplayName: Tridente Possuído
+	ElderFisherman.DisplayName: Velho pescador
+	// SeaBunny.DisplayName: Sea Bunny
+	// OceanFish1.DisplayName: Ocean Fish1
+	// OceanFish2.DisplayName: Ocean Fish2
+	// OceanFish3.DisplayName: Ocean Fish3
+	// OceanFish4.DisplayName: Ocean Fish4
+	// GiantMantaRay.DisplayName: Giant Manta Ray
+	// ScubaSlime.DisplayName: Scuba Slime
+}
+
+Dialogue: {
+	ElderFisherman: {
+		AnglerDialogue: "{0}? Aquele pirralho? Ele é meu neto, mas eu detesto ele. Ele vive falando que é um pescador mas nem pesca."
+		StandardDialogue1: O Terrariano hein? Me mostre o seu valor! Compre meus itens de pesca.
+		StandardDialogue2: Cada coisa maluca rolando por aqui, melhor que aqueles 'Cah-la-meh-tyh' ou 'Far-gowhs', pode confiar, um pescador nunca mente.
+		StandardDialogue3: Já esteve no mar durante uma tempestade? Não? Não é nada bonito, pode ter certeza disso.
+		StandardDialogue4: Eu já sobrevivi uma tempestade terrivel durante uma noite de lua cheia, a lua parecia gigante naquele dia. eh, tanto faz, devo estar lembrando errado.
+		UncommonDialogue: I think that moon lady likes fish, try putting a good one on that old pedestal, I'm sure she'll be happy with it.
+		RareDialogue: Você usa o sistema imperial? 'Ooh cuidado, ai vem uma onda do tamanho de dois ônibus!' Só use o sistéma métrico, caramba.
+		TalkALot: CARAMBA- Só compre algo é vá embora! Você tá assustando os.. peixe morto!
+	}
+
+	Boss.Oops:
+		'''
+		Oops, Foi mal.. Você não fez isso de propósito, né?
+		-Dev
+		'''
+	TheMoon.SuperMoonStart: A graça da lua brilha sobre o mundo...
+}
+
+Tiles: {
+	ZincOreTile.MapEntry: Minério de Zinco
+	Industrial_forge.MapEntry: Forja Industrial
+	MechanicalPress.MapEntry: Prensa mecânica
+	MoonAltar.MapEntry: O altar da lua
+	ManaInfuser.MapEntry: Infusor de estrelas
+	PartAssembler.MapEntry: Montador de partes
+	FurnaceEngine.MapEntry: Motor Fornalha
+	// ScrapTile.MapEntry: Scrap Tile
+}
+
+WorldGen: {
+	BlessedWithZincMessage: O Subterrâneo brilha com Zinco
+	ZincOrePassMessage: Mods.TheDeep.WorldGen.ZincOrePassMessage
+}
