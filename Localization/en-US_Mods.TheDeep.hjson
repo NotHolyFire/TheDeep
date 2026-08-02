@@ -698,12 +698,13 @@ Items: {
 
 	DarkSlash: {
 		DisplayName: Dark Slash
-		Tooltip: ""
-	}
-
-	VertebraRipper: {
-		DisplayName: Vertebra Ripper
-		Tooltip: ""
+		Tooltip:
+			'''
+			A light shortsword capable of attacking at incredible speeds
+			Right Click to apply a Parry
+			Parries Reflects projectiles back to their owners
+			This rapier becomes stronger and inflicts Shadowflame on enemies after a successful parry
+			'''
 	}
 
 	SharpenedCandyCane: {
@@ -718,7 +719,13 @@ Items: {
 
 	NavalSteelRapier: {
 		DisplayName: Naval Steel Rapier
-		Tooltip: ""
+		Tooltip:
+			'''
+			A light shortsword capable of attacking at incredible speeds
+			Right Click to apply a Parry
+			Parries Reflects projectiles back to their owners
+			'When life throws you lemons you parry and send them back at twice the speed'
+			'''
 	}
 
 	FellBullet: {
@@ -752,63 +759,114 @@ Items: {
 	}
 
 	ReefKnightHelmet: {
-		SetBonus: Mods.TheDeep.Items.ReefKnightHelmet.SetBonus
 		DisplayName: Reef Knight Helmet
-		Tooltip: ""
+		Tooltip: Greatly extends undewwater breathing
+		SetBonus:
+			'''
+			5% increased damage
+			Allows quick travel in liquids
+			10% increased movement speed
+			'''
 	}
 
 	FishingMagnet: {
 		DisplayName: Fishing Magnet
-		Tooltip: ""
+		Tooltip:
+			'''
+			Specialized bobber made for fishing metal
+			Will catch scrap and normal crates much more frequently
+			Displays a custom bobber if the visibility is on
+			'''
 	}
 
 	ReefKnightChestplate: {
 		DisplayName: Reef Knight Chestplate
-		Tooltip: ""
+		Tooltip: 5% increased damage
 	}
 
 	ReefKnightLeggings: {
 		DisplayName: Reef Knight Leggings
-		Tooltip: ""
+		Tooltip:
+			'''
+			Grants the hability to swim
+			8% increased movement speed
+			'''
 	}
 
 	ReefGoldBar: {
-		DisplayName: Reef Gold Bar
-		Tooltip: ""
+		DisplayName: Coastal Gold Bar
+		Tooltip: "'Wet to the touch'"
 	}
 
 	GiantMantaRayBanner: {
 		DisplayName: Giant Manta Ray Banner
-		Tooltip: ""
+		Tooltip: Nearby players get a bonus against: Giant Manta Ray
 	}
 
 	ReefGoldBrick: {
-		DisplayName: Reef Gold Brick
+		DisplayName: Coastal Gold Brick
 		Tooltip: ""
 	}
 
 	ScubaSlimeBanner: {
 		DisplayName: Scuba Slime Banner
-		Tooltip: ""
+		Tooltip: Nearby players get a bonus against: Scuba Slime
 	}
 
 	CoastalGreatsword: {
-		DisplayName: Coastal Greatsword
-		Tooltip: ""
+		DisplayName: HighTide Greatsword
+		Tooltip: "[c/38CCCE:'The power of the tides rests within the blade']"
 	}
 
 	VertebraeRipper: {
 		DisplayName: Vertebrae Ripper
-		Tooltip: ""
+		Tooltip:
+			'''
+			A light shortsword capable of attacking at incredible speeds
+			Right Click to apply a Parry
+			Parries Reflects projectiles back to their owners
+			This rapier inflicts Laceration on enemies after a successful parry
+			'Why does it have spikes in the handle!?'
+			'''
 	}
 
 	HoldoutPiercer: {
-		DisplayName: Holdout Piercer
-		Tooltip: ""
+		DisplayName: Piercer
+		Tooltip:
+			'''
+			A powerful revolver that alternates between Nano bullets and Charged Shots that pierces enemies
+			Right Click to spin the revolver and parry attacks
+			[c/D40200:'Mankind is Dead, Blood is fuel, Hell is full']
+			'''
 	}
 
 	Shellshocker: {
 		DisplayName: Shellshocker
+		Tooltip:
+			'''
+			Shoots coral bullets with different effects each
+			'It's clamplicated'
+			'''
+	}
+
+	SharkScaleHelmet: {
+		SetBonus: Mods.TheDeep.Items.SharkScaleHelmet.SetBonus
+		DisplayName: Shark Scale Helmet
+		Tooltip: ""
+	}
+
+	SharkScaleBreastplate: {
+		DisplayName: Shark Scale Breastplate
+		Tooltip: ""
+	}
+
+	SharkScaleLeggings: {
+		DisplayName: Shark Scale Leggings
+		Tooltip: ""
+	}
+
+	SharkScale: {
+		DisplayName: Shark Scale
 		Tooltip: ""
 	}
 }
@@ -850,11 +908,11 @@ Projectiles: {
 	SandBoulder.DisplayName: Sand Boulder
 	PlayerShockwave.DisplayName: Player Shockwave
 	CrescentMoonProjectile.DisplayName: Crescent Moon Projectile
-	DarkSlashProjectile.DisplayName: Dark Slash Projectile
-	DarkSlashProj.DisplayName: Dark Slash Proj
-	DarkSlashParry.DisplayName: Dark Slash Parry
-	VertebraRipperParry.DisplayName: Vertebra Ripper Parry
-	VertebraRipperProjectile.DisplayName: Vertebra Ripper Projectile
+	DarkSlashProjectile.DisplayName: Dark Slash
+	DarkSlashProj.DisplayName: Dark Slash
+	DarkSlashParry.DisplayName: Dark Slash
+	VertebraRipperParry.DisplayName: Vertebrae Ripper
+	VertebraRipperProjectile.DisplayName: Vertebrae Ripper Projectile
 	SharpenedCandyCaneParry.DisplayName: Sharpened Candy Cane Parry
 	SharpenedCandyCaneProjectile.DisplayName: Sharpened Candy Cane Projectile
 	BruchiusParry.DisplayName: Bruchius Parry
@@ -878,9 +936,10 @@ Projectiles: {
 	RiptideBoomerang.DisplayName: Riptide Boomerang
 	RiptideProjectile.DisplayName: Riptide Projectile
 	RiptideSuperAttack.DisplayName: Riptide Super Attack
-	PiercerHoldoutProj.DisplayName: Piercer Holdout Proj
-	PiercerParry.DisplayName: Piercer Parry
-	ShellshockerMk2Projectile.DisplayName: Shellshocker Mk2 Projectile
+	PiercerHoldoutProj.DisplayName: Piercer
+	PiercerParry.DisplayName: Piercer
+	ShellshockerMk2Projectile.DisplayName: Shellshocker
+	DamageBobber.DisplayName: Damage Bobber
 }
 
 Buffs: {
@@ -1032,7 +1091,7 @@ Dialogue: {
 		Oops, sorry about that.. You didn't do it on purpose, right?
 		-Dev
 		'''
-	TheMoon.SuperMoonStart: The Grace of the Moon starts shining upon you...
+	TheMoon.SuperMoonStart: The Grace of the moon shines upon the world...
 }
 
 Tiles: {

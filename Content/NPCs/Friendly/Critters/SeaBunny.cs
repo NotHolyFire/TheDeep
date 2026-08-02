@@ -34,8 +34,22 @@ namespace TheDeep.Content.NPCs.Friendly.Critters
 
             NPC.catchItem = ModContent.ItemType<SeaBunnyItem>();
         AIType = ClonedNPCID;
-        AnimationType = ClonedNPCID;
     }
+
+    public override void FindFrame(int frameHeight)
+        {
+            NPC.spriteDirection = (NPC.direction > 0) ? 1 : -1;
+            if (NPC.velocity.X == 0 && !NPC.IsABestiaryIconDummy)
+            {
+                NPC.frameCounter = 0.0;
+                return;
+            }
+            NPC.frameCounter += 0.075f;
+            NPC.frameCounter %= Main.npcFrameCount[NPC.type];
+            int frame = (int)NPC.frameCounter;
+            NPC.frame.Y = frame * frameHeight;
+
+        }
 
     public override void SetBestiary(BestiaryDatabase database, BestiaryEntry bestiaryEntry)
     {
